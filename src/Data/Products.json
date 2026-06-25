@@ -1,0 +1,17 @@
+{
+  "kitchenware": [
+    {"id":1, "name":"K. Accessories", "price":39, "img":"img2"},
+    {"id":2, "name":"K. Accessories", "price":25, "img":"img3"},
+    {"id":3, "name":"Home Cooker", "price":48, "img":"img4"}
+  ],
+  "sportswear": [
+    {"id":4, "name":"Sports Black Cap", "price":49,  "img":"img5"},
+    {"id":5, "name":"Full Jersey Set","price":69,  "img":"img6"},
+    {"id":6, "name":"Sports Cates", "price":159, "img":"img7"}
+  ],
+  "furniture": [
+    {"id":7, "name":"Single Relax Chair", "price":185, "img":"img8"},
+    {"id":8, "name":"Children Play",  "price":299, "img":"img9"},
+    {"id":9, "name":"Flexible Sofa", "price":339, "img":"img10"}
+  ]
+}
